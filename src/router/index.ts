@@ -31,6 +31,11 @@ const router = createRouter({
       path: '/form',
       name: 'form',
       component: () => import('../views/FormikView.vue')
+    },
+    {
+      path: '/toggler',
+      name: 'toggler',
+      component: () => import('../views/TogglerView.vue')
     }
   ]
 })
