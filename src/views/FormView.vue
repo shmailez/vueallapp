@@ -17,7 +17,7 @@
     </div>
 </template>
   
-  <style>
+<style>
   @media (min-width: 1024px) {
     .from {
       min-height: 100vh;
@@ -25,4 +25,4 @@
       align-items: center;
     }
   }
-  </style>
+</style>

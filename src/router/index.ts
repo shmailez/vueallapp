@@ -20,7 +20,7 @@ const router = createRouter({
     {
       path: '/form',
       name: 'form',
-      component: () => import('../views/FromView.vue')
+      component: () => import('../views/FormView.vue')
     },
     {
       path: '/table',
