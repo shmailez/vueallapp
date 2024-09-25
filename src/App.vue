@@ -15,6 +15,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/about">Abohut</RouterLink>
         <RouterLink to="/image">Image</RouterLink>
         <RouterLink to="/table">Table</RouterLink>
+        <RouterLink to="/form">Form</RouterLink>
       </nav>
     </div>
   </header>

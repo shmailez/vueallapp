@@ -26,6 +26,11 @@ const router = createRouter({
       path: '/image',
       name: 'image',
       component: () => import('../views/ImageView.vue')
+    },
+    {
+      path: '/form',
+      name: 'form',
+      component: () => import('../views/FormikView.vue')
     }
   ]
 })
