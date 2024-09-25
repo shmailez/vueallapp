@@ -17,6 +17,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/table">Table</RouterLink>
         <RouterLink to="/form">Form</RouterLink>
         <RouterLink to="/toggler">Toggler</RouterLink>
+        <RouterLink to="/todo">Todo</RouterLink>
       </nav>
     </div>
   </header>
